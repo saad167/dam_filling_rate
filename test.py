@@ -1,5 +1,1 @@
-print("qhqhqh")
-print("dhdhdh")
-print("saad")
-print("saad")
-print("saaaad")
+# lt's start
