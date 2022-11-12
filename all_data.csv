@@ -1,0 +1,8 @@
+ville,temperature,precipitation,date,barrages,capacite_normal_mm3,reserve_mm3,taux_de_remplissage_percent,reserve_mm3_last_year,taux_de_remplissage_percent_last_year,region
+Marrakech,18,0.0,2021-03-13,LALLA TAKERKOUST,"53,3","16,6","31,1","3,6","6,7",Marrakech-Safi 
+Marrakech,21,0.0,2021-03-14,LALLA TAKERKOUST,"53,3","16,6","31,1","3,6","6,7",Marrakech-Safi 
+Marrakech,24,0.0,2021-03-15,LALLA TAKERKOUST,"53,3","16,6","31,1","3,4","6,5",Marrakech-Safi 
+Marrakech,23,0.0,2021-03-16,LALLA TAKERKOUST,"53,3","16,6","31,1","3,4","6,5",Marrakech-Safi 
+Marrakech,22,0.0,2021-03-17,LALLA TAKERKOUST,"53,3","16,6","31,1","3,4","6,5",Marrakech-Safi 
+Marrakech,18,0.0,2021-03-18,LALLA TAKERKOUST,"53,3","16,6","31,1","3,4","6,5",Marrakech-Safi 
+Marrakech,16,1.5000000000000002,2021-03-19,LALLA TAKERKOUST,"53,3","16,6","31,1","3,4","6,5",Marrakech-Safi 
