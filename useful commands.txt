@@ -1,0 +1,15 @@
+# we assume we are in master branch
+# create branch
+git branch "name_of_branche"
+
+
+# swith to the created branch
+git checkout "name_of_branche"
+
+# sending the cbranch in first time
+git push --set-upstream origin hamid
+
+# merge my branche to the main (master)
+####git merge origin/master or se github interface
+
+git pull origin master
