@@ -1,0 +1,97 @@
+ville,temperature,precipitation,date,barrages,capacite_normal_mm3,reserve_mm3,taux_de_remplissage_percent,reserve_mm3_last_year,taux_de_remplissage_percent_last_year,region
+TANGER,16,0,3/15/2021,TANGER - MEDITERRANEE,"22,0","19,2","87,0","13,2","60,1",Tanger-Tetouan-Al Hoceima
+Ouarzazate,19,0,3/15/2021,MANSOUR EDDAHBI,"445,3","100,3","22,5","158,7","35,7",Draa-Tafilalet
+TANGER,14,0,3/22/2021,TANGER - MEDITERRANEE,"22,0","19,4","88,1","13,2","60,1",Tanger-Tetouan-Al Hoceima
+Ouarzazate,13,0,3/22/2021,MANSOUR EDDAHBI,"445,3","99,4","22,3","158,4","35,6",Draa-Tafilalet
+TANGER,17,0,3/29/2021,TANGER - MEDITERRANEE,"22,0","19,5","88,5","14,0","63,5",Tanger-Tetouan-Al Hoceima
+Ouarzazate,19,0,3/29/2021,MANSOUR EDDAHBI,"445,3","102,8","23,1","150,2","33,7",Draa-Tafilalet
+TANGER,17,0,4/5/2021,TANGER - MEDITERRANEE,"22,0","19,6","88,9","14,1","64,1",Tanger-Tetouan-Al Hoceima
+Ouarzazate,21,0,4/5/2021,MANSOUR EDDAHBI,"445,3","105,7","23,7","137,1","30,8",Draa-Tafilalet
+TANGER,17,0,4/12/2021,TANGER - MEDITERRANEE,"22,0","19,6","89,1","14,1","64,2",Tanger-Tetouan-Al Hoceima
+Ouarzazate,24,0,4/12/2021,MANSOUR EDDAHBI,"445,3","108,0","24,3","132,8","29,8",Draa-Tafilalet
+TANGER,18,0,4/19/2021,TANGER - MEDITERRANEE,"22,0","19,7","89,3","14,2","64,3",Tanger-Tetouan-Al Hoceima
+Ouarzazate,24,0,4/19/2021,MANSOUR EDDAHBI,"445,3","109,9","24,7","132,4","29,7",Draa-Tafilalet
+TANGER,17,5.2,4/26/2021,TANGER - MEDITERRANEE,"22,0","19,7","89,5","14,4","65,4",Tanger-Tetouan-Al Hoceima
+Ouarzazate,20,0,4/26/2021,MANSOUR EDDAHBI,"445,3","110,6","24,8","130,5","29,3",Draa-Tafilalet
+TANGER,17,0,5/3/2021,TANGER - MEDITERRANEE,"22,0","19,8","89,9","14,4","65,6",Tanger-Tetouan-Al Hoceima
+Ouarzazate,23,0,5/3/2021,MANSOUR EDDAHBI,"445,3","110,7","24,9","130,0","29,2",Draa-Tafilalet
+TANGER,17,2.2,5/10/2021,TANGER - MEDITERRANEE,"22,0","19,8","90,0","14,5","65,7",Tanger-Tetouan-Al Hoceima
+Ouarzazate,25,0,5/10/2021,MANSOUR EDDAHBI,"445,3","110,7","24,9","129,4","29,1",Draa-Tafilalet
+TANGER,23,0,5/17/2021,TANGER - MEDITERRANEE,"22,0","19,8","90,0","14,5","65,7",Tanger-Tetouan-Al Hoceima
+Ouarzazate,28,0,5/17/2021,MANSOUR EDDAHBI,"445,3","110,4","24,8","128,8","28,9",Draa-Tafilalet
+TANGER,19,0,5/24/2021,TANGER - MEDITERRANEE,"22,0","19,8","90,0","14,4","65,6",Tanger-Tetouan-Al Hoceima
+Ouarzazate,25,0,5/24/2021,MANSOUR EDDAHBI,"445,3","110,1","24,7","128,0","28,8",Draa-Tafilalet
+TANGER,24,0,5/31/2021,TANGER - MEDITERRANEE,"22,0","19,8","90,0","14,4","65,3",Tanger-Tetouan-Al Hoceima
+Ouarzazate,24,5.9,5/31/2021,MANSOUR EDDAHBI,"445,3","109,6","24,6","127,4","28,6",Draa-Tafilalet
+TANGER,24,0,6/7/2021,TANGER - MEDITERRANEE,"22,0","19,7","89,6","14,3","65,0",Tanger-Tetouan-Al Hoceima
+Ouarzazate,29,0,6/7/2021,MANSOUR EDDAHBI,"445,3","109,2","24,5","126,4","28,4",Draa-Tafilalet
+TANGER,23,0,6/14/2021,TANGER - MEDITERRANEE,"22,0","19,7","89,4","14,4","65,3",Tanger-Tetouan-Al Hoceima
+Ouarzazate,32,0,6/14/2021,MANSOUR EDDAHBI,"445,3","108,8","24,4","125,7","28,2",Draa-Tafilalet
+TANGER,20,0,6/21/2021,TANGER - MEDITERRANEE,"22,0","19,7","89,3","14,3","64,8",Tanger-Tetouan-Al Hoceima
+Ouarzazate,29,0,6/21/2021,MANSOUR EDDAHBI,"445,3","97,9","22,0","111,1","25,0",Draa-Tafilalet
+TANGER,22,0,6/28/2021,TANGER - MEDITERRANEE,"22,0","19,6","89,1","14,2","64,3",Tanger-Tetouan-Al Hoceima
+Ouarzazate,32,0,6/28/2021,MANSOUR EDDAHBI,"445,3","80,8","18,1","97,9","22,0",Draa-Tafilalet
+TANGER,27,0,7/5/2021,TANGER - MEDITERRANEE,"22,0","19,6","88,8","14,1","64,1",Tanger-Tetouan-Al Hoceima
+Ouarzazate,36,0,7/5/2021,MANSOUR EDDAHBI,"445,3","69,9","15,7","87,8","19,7",Draa-Tafilalet
+TANGER,24,0,7/19/2021,TANGER - MEDITERRANEE,"22,0","19,4 88,1","13,9 63,3",,,Tanger-Tetouan-Al Hoceima
+Ouarzazate,33,0,7/19/2021,MANSOUR EDDAHBI,"445,3","68,1","15,3","85,0","19,1",Draa-Tafilalet
+TANGER,24,0,7/26/2021,TANGER - MEDITERRANEE,"22,0","19,3 87,8","13,8 62,8",,,Tanger-Tetouan-Al Hoceima
+Ouarzazate,34,0,7/26/2021,MANSOUR EDDAHBI,"445,3","67,4","15,1","84,9","19,1",Draa-Tafilalet
+TANGER,24,0,8/2/2021,TANGER - MEDITERRANEE,"22,0","19,1","86,8","13,7","62,3",Tanger-Tetouan-Al Hoceima
+Ouarzazate,33,0,8/2/2021,MANSOUR EDDAHBI,"445,3","66,8","15,0","82,2","18,5",Draa-Tafilalet
+TANGER,26,0,8/9/2021,TANGER - MEDITERRANEE,"22,0","18,9","86,0","13,6","61,9",Tanger-Tetouan-Al Hoceima
+Ouarzazate,34,0,8/9/2021,MANSOUR EDDAHBI,"445,3","66,1","14,8","80,9","18,2",Draa-Tafilalet
+TANGER,33,0,8/16/2021,TANGER - MEDITERRANEE,"22,0","18,8","85,4","13,6","61,6",Tanger-Tetouan-Al Hoceima
+Ouarzazate,33,0,8/16/2021,MANSOUR EDDAHBI,"445,3","65,4","14,7","80,6","18,1",Draa-Tafilalet
+TANGER,27,0,8/23/2021,TANGER - MEDITERRANEE,"22,0","18,7","84,7","13,4","61,0",Tanger-Tetouan-Al Hoceima
+Ouarzazate,34,0,8/23/2021,MANSOUR EDDAHBI,"445,3","64,4","14,5","80,3","18,0",Draa-Tafilalet
+TANGER,26,0,8/30/2021,TANGER - MEDITERRANEE,"22,0","18,5","84,0","13,3","60,3",Tanger-Tetouan-Al Hoceima
+Ouarzazate,31,0,8/30/2021,MANSOUR EDDAHBI,"445,3","63,4","14,2","79,9","17,9",Draa-Tafilalet
+TANGER,29,0,9/6/2021,TANGER - MEDITERRANEE,"22,0","18,3","83,2","13,2","59,8",Tanger-Tetouan-Al Hoceima
+Ouarzazate,32,0,9/6/2021,MANSOUR EDDAHBI,"445,3","62,8","14,1","87,1","19,6",Draa-Tafilalet
+TANGER,26,0.4,9/13/2021,TANGER - MEDITERRANEE,"22,0","18,1","82,4","13,1","59,4",Tanger-Tetouan-Al Hoceima
+Ouarzazate,28,0,9/13/2021,MANSOUR EDDAHBI,"445,3","61,5","13,8","92,4","20,7",Draa-Tafilalet
+TANGER,25,0,9/20/2021,TANGER - MEDITERRANEE,"22,0","18,0","81,6","13,1","59,3",Tanger-Tetouan-Al Hoceima
+Ouarzazate,28,0,9/20/2021,MANSOUR EDDAHBI,"445,3","63,5","14,3","92,9","20,9",Draa-Tafilalet
+TANGER,26,0,9/27/2021,TANGER - MEDITERRANEE,"22,0","17,9","81,3","12,9","58,6",Tanger-Tetouan-Al Hoceima
+Ouarzazate,30,0,9/27/2021,MANSOUR EDDAHBI,"445,3","63,4","14,2","92,6","20,8",Draa-Tafilalet
+TANGER,21,0,10/4/2021,TANGER - MEDITERRANEE,"22,0","17,9","81,1","12,8","58,3",Tanger-Tetouan-Al Hoceima
+Ouarzazate,26,0,10/4/2021,MANSOUR EDDAHBI,"445,3","63,2","14,2","92,1","20,7",Draa-Tafilalet
+TANGER,24,0,10/11/2021,TANGER - MEDITERRANEE,"22,0","17,8","80,7","12,7","57,9",Tanger-Tetouan-Al Hoceima
+Ouarzazate,25,0,10/11/2021,MANSOUR EDDAHBI,"445,3","63,2","14,2","91,7","20,6",Draa-Tafilalet
+TANGER,23,0,10/18/2021,TANGER - MEDITERRANEE,"22,0","17,7","80,2","12,7","57,5",Tanger-Tetouan-Al Hoceima
+Ouarzazate,25,0,10/18/2021,MANSOUR EDDAHBI,"445,3","62,9","14,1","91,1","20,5",Draa-Tafilalet
+TANGER,21,0,10/25/2021,TANGER - MEDITERRANEE,"22,0","17,5","79,6","12,6","57,2",Tanger-Tetouan-Al Hoceima
+Ouarzazate,22,0,10/25/2021,MANSOUR EDDAHBI,"445,3","62,7","14,1","101,8","22,9",Draa-Tafilalet
+TANGER,22,3.2,11/1/2021,TANGER - MEDITERRANEE,"22,0","17,5","79,4","12,5","56,9",Tanger-Tetouan-Al Hoceima
+Ouarzazate,23,0,11/1/2021,MANSOUR EDDAHBI,"445,3","62,4","14,0","102,1","22,9",Draa-Tafilalet
+TANGER,17,0,11/8/2021,TANGER - MEDITERRANEE,"22,0","17,5","79,3","12,5","56,7",Tanger-Tetouan-Al Hoceima
+Ouarzazate,15,0,11/8/2021,MANSOUR EDDAHBI,"445,3","62,0","13,9","102,1","22,9",Draa-Tafilalet
+TANGER,19,0,11/15/2021,TANGER - MEDITERRANEE,"22,0","17,4","78,9","12,4","56,2",Tanger-Tetouan-Al Hoceima
+Ouarzazate,16,0,11/15/2021,MANSOUR EDDAHBI,"445,3","61,8","13,9","103,1","23,2",Draa-Tafilalet
+TANGER,16,1.1,11/22/2021,TANGER - MEDITERRANEE,"22,0","17,5","79,7","12,3","55,9",Tanger-Tetouan-Al Hoceima
+Ouarzazate,16,0,11/22/2021,MANSOUR EDDAHBI,"445,3","61,6","13,8","103,6","23,3",Draa-Tafilalet
+TANGER,15,1.7,11/29/2021,TANGER - MEDITERRANEE,"22,0","17,6","79,8","12,3","55,8",Tanger-Tetouan-Al Hoceima
+Ouarzazate,12,0,11/29/2021,MANSOUR EDDAHBI,"445,3","62,4","14,0","102,5","23,0",Draa-Tafilalet
+TANGER,14,0,12/6/2021,TANGER - MEDITERRANEE,"22,0","17,5","79,6","12,3","55,7",Tanger-Tetouan-Al Hoceima
+Ouarzazate,14,0,12/6/2021,MANSOUR EDDAHBI,"445,3","67,5","15,2","85,0","19,1",Draa-Tafilalet
+TANGER,16,0,12/13/2021,TANGER - MEDITERRANEE,"22,0","17,5","79,3","12,3","55,6",Tanger-Tetouan-Al Hoceima
+Ouarzazate,12,0.3,12/13/2021,MANSOUR EDDAHBI,"445,3","72,9","16,4","76,1","17,1",Draa-Tafilalet
+TANGER,16,0,12/20/2021,TANGER - MEDITERRANEE,"22,0","17,4","79,1","12,2","55,6",Tanger-Tetouan-Al Hoceima
+Ouarzazate,12,0,12/20/2021,MANSOUR EDDAHBI,"445,3","77,0","17,3","74,7","16,8",Draa-Tafilalet
+TANGER,18,1,12/27/2021,TANGER - MEDITERRANEE,"22,0","17,5","79,4","12,2","55,6",Tanger-Tetouan-Al Hoceima
+Ouarzazate,15,0,12/27/2021,MANSOUR EDDAHBI,"445,3","84,6","19,0","74,8","16,8",Draa-Tafilalet
+TANGER,18,0,1/3/2022,TANGER - MEDITERRANEE,"22,0","17,5","79,4","12,3","55,8",Tanger-Tetouan-Al Hoceima
+Ouarzazate,13,0,1/3/2022,MANSOUR EDDAHBI,"445,3","89,6","20,1","75,3","16,9",Draa-Tafilalet
+TANGER,14,0,1/10/2022,TANGER - MEDITERRANEE,"22,0","17,5","79,5","13,1","59,4",Tanger-Tetouan-Al Hoceima
+Ouarzazate,12,0,1/10/2022,MANSOUR EDDAHBI,"445,3","95,5","21,5","87,7","19,7",Draa-Tafilalet
+TANGER,16,0,1/31/2022,TANGER - MEDITERRANEE,"22,0","17,5","79,4","13,6","61,8",Tanger-Tetouan-Al Hoceima
+Ouarzazate,12,0.3,1/31/2022,MANSOUR EDDAHBI,"445,3","97,9","22,0","96,4","21,7",Draa-Tafilalet
+TANGER,17,0,2/7/2022,TANGER - MEDITERRANEE,"22,0","17,5","79,6","13,7","62,2",Tanger-Tetouan-Al Hoceima
+Ouarzazate,14,0.4,2/7/2022,MANSOUR EDDAHBI,"445,3","99,9","22,4","96,7","21,7",Draa-Tafilalet
+TANGER,15,3.6,2/14/2022,TANGER - MEDITERRANEE,"22,0","17,5","79,6","14,3","64,9",Tanger-Tetouan-Al Hoceima
+Ouarzazate,14,0,2/14/2022,MANSOUR EDDAHBI,"445,3","101,4","22,8","96,5","21,7",Draa-Tafilalet
+TANGER,17,0,2/21/2022,TANGER - MEDITERRANEE,"22,0","17,5","79,7","14,4","65,5",Tanger-Tetouan-Al Hoceima
+Ouarzazate,15,0,2/21/2022,MANSOUR EDDAHBI,"445,3","102,3","23,0","96,5","21,7",Draa-Tafilalet
+TANGER,15,0,2/28/2022,TANGER - MEDITERRANEE,"22,0","17,5","79,7","14,6","66,5",Tanger-Tetouan-Al Hoceima
+Ouarzazate,15,5.4,2/28/2022,MANSOUR EDDAHBI,"445,3","102,6","23,0","98,9","22,2",Draa-Tafilalet
